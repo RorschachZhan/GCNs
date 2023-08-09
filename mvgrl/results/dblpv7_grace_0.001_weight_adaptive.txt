@@ -1,0 +1,21 @@
+{'seed': 12421, 'learning_rate': 0.001, 'num_hidden': 128, 'num_proj_hidden': 128, 'activation': 'relu', 'base_model': 'GCNConv', 'num_layers': 2, 'drop_edge_rate_1': 0.2, 'drop_edge_rate_2': 0.4, 'drop_feature_rate_1': 0.3, 'drop_feature_rate_2': 0.4, 'tau': 0.4, 'weight_decay': 0.0001, 'patience': 20, 'lower': 0.3, 'upper': 1}
+Epoch=67, Early stopping!
+Epoch=47, Early stopping!
+Epoch=71, Early stopping!
+Epoch=122, Early stopping!
+Epoch=46, Early stopping!
+Epoch=55, Early stopping!
+Epoch=66, Early stopping!
+Epoch=94, Early stopping!
+Epoch=76, Early stopping!
+Epoch=66, Early stopping!
+Epoch=49, Early stopping!
+Epoch=71, Early stopping!
+Epoch=36, Early stopping!
+Epoch=69, Early stopping!
+Epoch=72, Early stopping!
+Epoch=42, Early stopping!
+Epoch=41, Early stopping!
+Epoch=46, Early stopping!
+Epoch=105, Early stopping!
+Epoch=125, Early stopping!
