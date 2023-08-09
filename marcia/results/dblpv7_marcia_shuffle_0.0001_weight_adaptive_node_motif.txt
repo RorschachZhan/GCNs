@@ -1,0 +1,41 @@
+{'seed': 12421, 'learning_rate': 0.001, 'num_hidden': 128, 'num_proj_hidden': 128, 'activation': 'relu', 'base_model': 'GCNConv', 'num_layers': 2, 'drop_edge_rate_1': 0.2, 'drop_edge_rate_2': 0.4, 'drop_feature_rate_1': 0.3, 'drop_feature_rate_2': 0.4, 'tau': 0.4, 'weight_decay': 0.0001, 'patience': 20, 'lower': 0.3, 'upper': 0.9, 'node_lower': 0.2, 'node_upper': 0.8}
+Epoch=497, Early stopping!
+Epoch=477 F1Mi={'mean': 0.737548282171173, 'std': 0.007804982240476722} F1Ma={'mean': 0.7055829583840206, 'std': 0.008996402614099697}
+Epoch=909, Early stopping!
+Epoch=889 F1Mi={'mean': 0.7490953445822321, 'std': 0.006694990559582805} F1Ma={'mean': 0.7245881149014203, 'std': 0.00508947108571392}
+Epoch=770, Early stopping!
+Epoch=750 F1Mi={'mean': 0.7506403740597682, 'std': 0.009783966479441573} F1Ma={'mean': 0.7240367365987487, 'std': 0.01577491858006463}
+Epoch=791, Early stopping!
+Epoch=771 F1Mi={'mean': 0.7422240292742426, 'std': 0.0056058856093431095} F1Ma={'mean': 0.6987723289262122, 'std': 0.017842179366288135}
+Epoch=683, Early stopping!
+Epoch=663 F1Mi={'mean': 0.7464525310022362, 'std': 0.007233816238257542} F1Ma={'mean': 0.7065637115780726, 'std': 0.013907552171561964}
+Epoch=735, Early stopping!
+Epoch=715 F1Mi={'mean': 0.7319780443179508, 'std': 0.004466165717734017} F1Ma={'mean': 0.7012781401948682, 'std': 0.00625227616011696}
+Epoch=822, Early stopping!
+Epoch=802 F1Mi={'mean': 0.7411262451717829, 'std': 0.009057488863136563} F1Ma={'mean': 0.7197288791998525, 'std': 0.01015114707684354}
+Epoch=633, Early stopping!
+Epoch=613 F1Mi={'mean': 0.746777800365928, 'std': 0.00902823923647684} F1Ma={'mean': 0.7154943074198157, 'std': 0.015118876822104648}
+Epoch=741, Early stopping!
+Epoch=721 F1Mi={'mean': 0.7449888188656231, 'std': 0.007221465197633974} F1Ma={'mean': 0.7237873958611071, 'std': 0.010163773073582455}
+Epoch=610, Early stopping!
+Epoch=590 F1Mi={'mean': 0.7386867249440944, 'std': 0.003000488672900202} F1Ma={'mean': 0.7015843967050762, 'std': 0.007261321772011128}
+Epoch=658, Early stopping!
+Epoch=638 F1Mi={'mean': 0.7389306769668632, 'std': 0.0054236288999955275} F1Ma={'mean': 0.7006683472722368, 'std': 0.008272831454087673}
+Epoch=789, Early stopping!
+Epoch=769 F1Mi={'mean': 0.7381988208985566, 'std': 0.005509812438783495} F1Ma={'mean': 0.7059822658914863, 'std': 0.005817253902664367}
+Epoch=731, Early stopping!
+Epoch=711 F1Mi={'mean': 0.740800975808091, 'std': 0.00681927240373467} F1Ma={'mean': 0.7235099765763053, 'std': 0.00703490471203742}
+Epoch=684, Early stopping!
+Epoch=664 F1Mi={'mean': 0.7411262451717829, 'std': 0.010492458144026358} F1Ma={'mean': 0.7084643219969304, 'std': 0.01787363634805846}
+Epoch=734, Early stopping!
+Epoch=714 F1Mi={'mean': 0.7490546859117707, 'std': 0.003837024025177099} F1Ma={'mean': 0.7232330629216576, 'std': 0.010555340978769893}
+Epoch=968, Early stopping!
+Epoch=948 F1Mi={'mean': 0.7368570847733279, 'std': 0.007181292709627254} F1Ma={'mean': 0.7145502362551875, 'std': 0.00902069103333547}
+Epoch=936, Early stopping!
+Epoch=916 F1Mi={'mean': 0.740638341126245, 'std': 0.006261171228160183} F1Ma={'mean': 0.7114045993968133, 'std': 0.007986444269258429}
+Epoch=675, Early stopping!
+Epoch=655 F1Mi={'mean': 0.7386867249440943, 'std': 0.005550466988113552} F1Ma={'mean': 0.7044241289784737, 'std': 0.01320698151799537}
+Epoch=513, Early stopping!
+Epoch=493 F1Mi={'mean': 0.7413295385240902, 'std': 0.01212801183167451} F1Ma={'mean': 0.7096980088757859, 'std': 0.015601317056213565}
+Epoch=554, Early stopping!
+Epoch=534 F1Mi={'mean': 0.7441756454563936, 'std': 0.00531929788702621} F1Ma={'mean': 0.715539275374358, 'std': 0.009999905062123489}
