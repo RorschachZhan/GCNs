@@ -1,0 +1,60 @@
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5809944751381215, 'std': 0.01603390687046813} F1Ma={'mean': 0.34092661406472824, 'std': 0.019296959345809318}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5714917127071824, 'std': 0.01233220457750604} F1Ma={'mean': 0.33185162461463286, 'std': 0.021577324261778188}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5865193370165747, 'std': 0.02253060079722951} F1Ma={'mean': 0.33266977399038, 'std': 0.015249530577638266}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5911602209944752, 'std': 0.0149396188120712} F1Ma={'mean': 0.3369636000344355, 'std': 0.022786300047206165}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5889502762430939, 'std': 0.03528306739045968} F1Ma={'mean': 0.3210837052266086, 'std': 0.03897205507530637}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5874033149171269, 'std': 0.00834528512198859} F1Ma={'mean': 0.342574107460387, 'std': 0.008327378936910827}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5779005524861879, 'std': 0.022784948364697456} F1Ma={'mean': 0.3297020990724148, 'std': 0.0400420912801537}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5622099447513811, 'std': 0.01956019590131164} F1Ma={'mean': 0.3188257871881368, 'std': 0.023331050107354298}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5586740331491713, 'std': 0.030888672193867216} F1Ma={'mean': 0.3159057014343337, 'std': 0.02473298391870719}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5940331491712707, 'std': 0.018110763534627945} F1Ma={'mean': 0.3339118273680831, 'std': 0.02580990312905556}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5902762430939227, 'std': 0.024142066019049432} F1Ma={'mean': 0.3405134636961723, 'std': 0.025120916613951407}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5794475138121548, 'std': 0.02188403299567227} F1Ma={'mean': 0.32985373825541064, 'std': 0.02821106334652088}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5730386740331491, 'std': 0.02103050122142818} F1Ma={'mean': 0.3155199012130219, 'std': 0.03024176609313575}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5820994475138122, 'std': 0.025172037105315473} F1Ma={'mean': 0.33895653780542795, 'std': 0.02921014480898138}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5960220994475138, 'std': 0.013398900677325194} F1Ma={'mean': 0.33914217078774356, 'std': 0.009019766860803824}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5619889502762432, 'std': 0.017212050809830494} F1Ma={'mean': 0.3123874045959716, 'std': 0.019308823874165562}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5814364640883978, 'std': 0.022125950958291844} F1Ma={'mean': 0.3418552892314829, 'std': 0.02561787292452644}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5907182320441988, 'std': 0.010974328413644307} F1Ma={'mean': 0.34191636965095634, 'std': 0.009447393257443619}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5951381215469613, 'std': 0.023320938710758764} F1Ma={'mean': 0.34235303204846196, 'std': 0.013347084914169588}
+Epoch=134, Early stopping!
+Loading 114th epoch
+Epoch=114 F1Mi={'mean': 0.5964640883977901, 'std': 0.018094576345156904} F1Ma={'mean': 0.33813010814743494, 'std': 0.021781583755998948}
